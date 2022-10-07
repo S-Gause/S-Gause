@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-Gause
 - 👀 I’m interested in: Code, writing, music, and drawing
 - 🌱 I’m currently learning: Java in a CSci class
-- 💞️ I’m looking to collaborate on: anything fun or thought-provoking (but I'm quite busy right now, so collabs will have to wait)
+- 💞️ I’m looking to collaborate on: anything fun or thought-provoking 
 - 📫 How to reach me: gause030@umn.edu
 
 <!---
